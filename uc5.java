@@ -4,7 +4,7 @@
  * This program prints OOPS banner using String.join()
  * for better memory efficiency and cleaner code.
  *
- * @author Udbhav
+ * @author DPR
  * @version 5.0
  */
 public class OOPSBannerApp {
